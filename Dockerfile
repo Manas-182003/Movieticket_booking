@@ -2,7 +2,7 @@
 FROM nginx:1.27-alpine
 
 # Set metadata labels (optional but good practice)
-LABEL maintainer="you@example.com"
+LABEL maintainer="Manasa"
 LABEL description="Movie Ticket Booking UI served by Nginx"
 
 # Remove the default Nginx welcome page
